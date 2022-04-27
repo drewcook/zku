@@ -1,0 +1,11 @@
+{
+  "name": "zero-knowledge-university",
+  "author": "Drew Cook",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drewcook/zku.git"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
