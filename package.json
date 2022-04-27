@@ -5,7 +5,8 @@
     "type": "git",
     "url": "https://github.com/drewcook/zku.git"
   },
-  "dependencies": {
-    "@openzeppelin/contracts": "^4.6.0"
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "hardhat": "^2.9.3"
   }
 }
