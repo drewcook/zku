@@ -6,11 +6,11 @@
 	path = week-2
 	url = https://github.com/drewcook/zku-week2
 
-	[submodule "week-3"]
+[submodule "week-3"]
 	path = week-3
 	url = https://github.com/drewcook/zku-week3
 
-	[submodule "week-4"]
+[submodule "week-4"]
 	path = week-4
 	url = https://github.com/drewcook/zku-week4
 
