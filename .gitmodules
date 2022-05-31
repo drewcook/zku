@@ -13,3 +13,7 @@
 	[submodule "week-4"]
 	path = week-4
 	url = https://github.com/drewcook/zku-week4
+
+[submodule "week-5"]
+	path = week-5
+	url = https://github.com/drewcook/zku-week5
